@@ -3702,6 +3702,9 @@ h1 {
 .accordion-title {
   line-height: 1.5; }
 
+.accordion-content p {
+  font-style: italic; }
+
 .accordion-title:hover,
 .accordion-title:active,
 .accordion-title:focus {
